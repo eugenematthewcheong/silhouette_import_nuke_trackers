@@ -105,10 +105,8 @@ def applyNukeTrackers():
 
 
 class ImportNukeTracker(fx.Action):
-    """Imports Nuke Trackers from clipboard"""
-
     def __init__(self):
-        fx.Action.__init__(self, 'EM Nuke | Import Nuke Tracker from Clipboard')
+        fx.Action.__init__(self, 'EM Tools | Import Nuke Tracker from Clipboard')
         
 
     def execute(self):
