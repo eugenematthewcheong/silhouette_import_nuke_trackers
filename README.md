@@ -1,5 +1,5 @@
 # Silhouette Import Nuke Trackers
-# For Silhouette version 2020 and above
+For Silhouette version 2020 and above
 
 ## Installation
 1. You can add import script in the startup.py or manually load the script via the script editor
