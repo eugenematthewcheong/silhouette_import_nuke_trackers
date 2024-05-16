@@ -1,4 +1,5 @@
 # Silhouette Import Nuke Trackers
+Author: Eugene Matthew Cheong <br>
 For Silhouette version 2020 and above
 
 ## Installation
